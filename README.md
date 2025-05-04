@@ -2,7 +2,4 @@
 
 HTML CSS
 
-[codepen](https://codepen.io/Academy-top/pen/mdQVENy)
-
-
-[оформление](https://www.cssmatic.com/border-radius)
+[codepen](https://codepen.io/Academy-top/pen/jOQrJgb?editors=1100)
