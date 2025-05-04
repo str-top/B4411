@@ -3,3 +3,6 @@
 HTML CSS
 
 [codepen](https://codepen.io/Academy-top/pen/vYQNrQa)
+
+
+[оформление](https://www.cssmatic.com/border-radius)
