@@ -9,3 +9,8 @@ HTML CSS
 [создание логотипа](https://turbologo.ru/app)
 
 [размещение картинок](postimg.cc)
+
+
+## Урок 6
+
+[favicon](https://www.favicon.by/)
