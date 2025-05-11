@@ -8,7 +8,7 @@ HTML CSS
 
 [создание логотипа](https://turbologo.ru/app)
 
-[размещение картинок](postimg.cc)
+[размещение картинок](https://postimg.cc)
 
 
 ## Урок 6
