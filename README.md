@@ -2,4 +2,10 @@
 
 HTML CSS
 
-[codepen](https://codepen.io/Academy-top/pen/xxQOeXz?editors=1100)
+## Урок 5
+
+[codepen](https://codepen.io/Academy-top/pen/bGQBQpa)
+
+[создание логотипа](https://turbologo.ru/app)
+
+[размещение картинок](postimg.cc)
