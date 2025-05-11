@@ -13,4 +13,4 @@ HTML CSS
 
 ## Урок 6
 
-[favicon](https://www.favicon.by/)
+[favicon](https://favicon.io/favicon-converter/)
