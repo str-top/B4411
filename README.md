@@ -15,7 +15,7 @@ HTML CSS
 
 [favicon](https://favicon.io/favicon-converter/)
 
-
+```
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -30,3 +30,4 @@ HTML CSS
   
 </body>
 </html>
+```
