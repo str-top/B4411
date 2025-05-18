@@ -2,32 +2,23 @@
 
 HTML CSS
 
-## Урок 5
-
-[codepen](https://codepen.io/Academy-top/pen/bGQBQpa)
-
-[создание логотипа](https://turbologo.ru/app)
-
-[размещение картинок](https://postimg.cc)
-
-
-## Урок 6
-
-[favicon](https://favicon.io/favicon-converter/)
-
+Урок 7
 ```
-<!DOCTYPE HTML>
-<html>
-<head>
- 	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="site.webmanifest">
- 	<title>Lego Kids</title>
-</head>
-<body>
-
-  
-</body>
-</html>
+<nav id="menu1">
+    <ul>
+ 		<li><a href="#m1">MENU</a></li>
+        <li><a href="#m2">MENU</a></li>
+ 		<li><a href="#m3">MENU</a>
+ 			<ul>
+                <li><a href="#m3_1">Menu</a></li>
+                <li><a href="#m3_2">Menu</a></li>
+                <li><a href="#m3_3">Menu</a></li>
+                <li><a href="#m3_4">Menu</a></li>
+                <li><a href="#m3_5">Menu</a></li>
+ 			</ul>
+ 		</li>
+ 		<li><a href="#m4">MENU</a></li>
+ 		<li><a href="#m5">MENU</a></li>
+    </ul>
+</nav>
 ```
