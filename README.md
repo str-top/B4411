@@ -17,3 +17,7 @@ https://kenwheeler.github.io/slick/#go-get-it
 ...
 <script type=”text/javascript” src=”slick/slick.min.js”></script>
 <script type=”text/javascript” src=”js/script.js”></script>
+...
+<link rel=”stylesheet” type=”text/css” href=”slick/slick.css”/>
+
+<link rel=”stylesheet” type=”text/css” href=”slick/slick-theme.css”/>
